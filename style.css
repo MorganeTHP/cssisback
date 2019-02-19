@@ -151,7 +151,7 @@ small {
 	height: 600px;
 }
 
-.lead {
+#big_banner .lead {
 	text-shadow: 0 0 8px black;
 	color: white;
 	text-align: right;
