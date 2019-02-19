@@ -161,3 +161,23 @@ small {
 .city_card{
 	max-height: 4rem;
 }
+
+.img-fluid {
+	border-radius: 20px
+}
+
+.row:nth-child(4n+1) {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+div.col-md-5 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.btn-primary {
+	border-radius: 8px;
+}
